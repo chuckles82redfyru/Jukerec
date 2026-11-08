@@ -216,4 +216,4 @@ JukeREC is offered as a full free version with all features and updates included
 Ready to dive into the world of radio? **Download JukeREC now and start recording your favorite broadcasts today!**
 
 ---
-**Last updated:** 2026-11-08 14:13:49 UTC
+**Last updated:** 2026-11-08 19:23:38 UTC
